@@ -1,0 +1,6 @@
+# 忽略所有 .log 结尾的日志文件
+*.log
+# 忽略整个 temp 临时文件夹
+temp/
+# 忽略本地私密配置文件
+config.local.txt
